@@ -15,19 +15,19 @@ This project demonstrates **text preprocessing**, **feature extraction**, and **
 
 ## 🚀 Features
 
-- **Text preprocessing**: Cleaning, lowercasing, tokenization, and stopword removal  
-- **TF-IDF vectorization** for converting text into numerical features  
-- **Classification** using:
-  - Multinomial Naive Bayes (primary)
-  - Logistic Regression / SVM (optional for comparison)
-- **Evaluation metrics**:
-  - Accuracy
-  - Precision, Recall, F1-score
-  - Confusion matrix visualization
+✅ Text preprocessing (cleaning, lowercasing, tokenization, stopword removal)  
+✅ TF-IDF vectorization for converting text into numerical features  
+✅ Classification using:
+- Multinomial Naive Bayes (primary)  
+- Logistic Regression / SVM (for comparison)  
+✅ Evaluation metrics:
+- Accuracy  
+- Precision, Recall, F1-score  
+- Confusion matrix visualization  
 
 ---
 
-## 🛠 Technologies
+## 🛠 Technologies Used
 
 - **Language:** Python  
 - **Libraries:**
